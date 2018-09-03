@@ -1,6 +1,6 @@
 # Image-Processing-Project
 
-##Code Structure:
+## Code Structure:
 
 * The code takes in argument from the command line and the decides which task to do. We have an array of function pointers which maps to different functions(tasks). The task file contains these tasks.
 
